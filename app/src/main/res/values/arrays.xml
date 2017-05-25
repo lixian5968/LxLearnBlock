@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ConfigType">
+        <item>ALPHA_8</item>
+        <item>ARGB_4444 </item>
+        <item>ARGB_8888</item>
+        <item>RGB_565</item>
+    </string-array>
+</resources>
